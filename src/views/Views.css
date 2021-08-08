@@ -1,0 +1,43 @@
+.HomeTitle {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 70px;
+  color: #fff;
+}
+
+.Container {
+  width: 30%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(14, 12, 12, 0.7);
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.LoginSection {
+  padding: 10px;
+  color: #fff;
+}
+
+.Title,
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.RegisterSection {
+  padding: 10px;
+  color: #fff;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}

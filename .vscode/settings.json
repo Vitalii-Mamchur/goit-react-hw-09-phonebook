@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "cSpell.words": [
+        "goit",
+        "persistor",
+        "Войти",
+        "Зарегистрироваться",
+        "Пароль",
+        "Почта",
+        "самое",
+        "фоновые"
+    ]
+}
